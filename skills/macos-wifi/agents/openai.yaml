@@ -1,0 +1,4 @@
+interface:
+  display_name: "macOS Wi-Fi"
+  short_description: "Inspect and manage Wi-Fi with the native macOS CLI"
+  default_prompt: "Use $macos-wifi to check my Wi-Fi status and diagnose missing network names."
